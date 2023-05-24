@@ -1,3 +1,4 @@
+## About
 This is a course search interface for Colby College built using React and React Flow library. The project is based on Next.js and was bootstrapped with create-next-app.
 
 ## Features
